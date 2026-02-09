@@ -5,19 +5,18 @@ export default function Home() {
     <main style={{ 
       width: '100vw', 
       height: '100vh', 
-      backgroundColor: '#ffffff', // Plain white page
+      backgroundColor: '#ffffff', 
       display: 'flex', 
       justifyContent: 'center', 
       alignItems: 'center' 
     }}>
       
-      {/* Some dummy content so the page isn't totally empty */}
       <div style={{ textAlign: 'center', color: '#333' }}>
-        <h1>Welcome to My Website</h1>
-        <p>The chat widget is in the bottom right corner ↘️</p>
+        <h2>THIS IS TEST WEBSITE FOR </h2>
+          <h3>AI CHAT SUPPORT</h3>
+        <p>The chat widget is in the bottom right corner ↘</p>
       </div>
 
-      {/* The Chat Widget Component */}
       <ChatWidget />
       
     </main>
