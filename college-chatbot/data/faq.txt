@@ -1,0 +1,574 @@
+Q: What is the full name of GTBIT?
+A: Guru Tegh Bahadur Institute of Technology.
+
+Q: When was GTBIT established?
+A: It was established in 1999.
+
+Q: Who established GTBIT?
+A: The Delhi Sikh Gurdwara Management Committee (DSGMC).
+
+Q: Which university is GTBIT affiliated with?
+A: Guru Gobind Singh Indraprastha University (GGSIPU).
+
+Q: Is GTBIT a government or private institute?
+A: It is a Private-Self Financing institute.
+
+Q: What is the Vision of GTBIT?
+A: Leadership in Holistic Education to create a Progressive, Prosperous and Harmonious World Family.
+
+Q: What are the four pillars of the GTBIT Mission?
+A: M1: Research-centric education; M2: Industry-academia connect; M3: Professional and Ethical workforce; M4: Human potential sensitive to society.
+
+Q: Who is the Chairperson of GTBIT?
+A: Bibi Ranjeet Kaur.
+
+Q: Who is the Director of GTBIT?
+A: Dr. Rominder Kaur Randhawa.
+
+Q: Who is the President of DSGMC?
+A: S. Harmeet Singh Kalka.
+
+Q: Who is the General Secretary of DSGMC?
+A: S. Jagdip Singh Kahlon.
+
+Q: Who is the Manager of GTBIT?
+A: S. Harjeet Singh.
+
+Q: What is the "Sarbat Da Bhala" philosophy?
+A: It is a Sikh tenet meaning "welfare of all," which guides the management of the institute.
+
+Q: What is the permanent AICTE ID of GTBIT?
+A: 1-3213971.
+
+Q: What is the motto of GTBIT found in the brochure?
+A: Create, Enhance and Sustain.
+
+Q: How are admissions conducted?
+A: Strictly through GGSIPU centralized online counselling based on merit (JEE Main Paper 1).
+
+Q: What are the admission helpline numbers?
+A: +91 9310207739 and +91 9625915121.
+
+Q: Where can students apply for GTBIT?
+A: At ipu.admissions.nic.in.
+
+Q: Is there any direct admission or management quota?
+A: Yes, 10% of the total seats are available as Management Quota seats as per the Delhi Professional Colleges Act 2007. However, 90% are filled via GGSIPU counselling.
+
+Q: What percentage of seats are reserved for the Sikh Minority?
+A: 70% of the seats.
+
+Q: How can one get a Minority Certificate?
+A: By registering on the DSGMC website (www.dsgmc.in).
+
+Q: What is the seat intake for Computer Science & Engineering?
+A: 180 seats (First Shift).
+
+Q: What is the seat intake for Information Technology?
+A: 180 seats (First Shift).
+
+Q: What is the intake for Electronics & Communication Engineering?
+A: 120 seats.
+
+Q: What is the intake for CSE (AI & ML)?
+A: 60 seats.
+
+Q: What is the intake for CSE (Data Science)?
+A: 60 seats.
+
+Q: Does GTBIT have a second shift?
+A: Yes, for CSE (60 seats) and IT (60 seats).
+
+Q: What is the total duration of the B.Tech program?
+A: 4 years (8 semesters).
+
+Q: What is the official email for admission queries?
+A: contactus@gtbit.ac.in.
+
+Q: What is the age limit for general category students for B.Tech admission?
+A: Not more than 21 years as of August 1st of the admission year.
+
+Q: What was the closing rank for B.Tech CSE (Home State General) in 2025?
+A: Approximately 318,341 in Round 3.
+
+Q: What was the 2025 cutoff for CSE (Other State General)?
+A: Approximately 121,312 in Round 3.
+
+Q: What does "OPNOHS" mean in the cutoff list?
+A: Open Category, No Sub-category, Home State (Delhi).
+
+Q: What does "OPNOOS" mean in the cutoff list?
+A: Open Category, No Sub-category, Other State (Outside Delhi).
+
+Q: What was the closing rank for IT (Home State General) in 2025?
+A: Approximately 378,320 in Round 3.
+
+Q: What was the cutoff for AI & ML (Home State General) in 2025?
+A: Approximately 325,106 in Round 3.
+
+Q: What was the 2025 cutoff for Data Science (Home State General)?
+A: Approximately 351,308 in Round 3.
+
+Q: What was the cutoff for ECE (Home State General) in 2025?
+A: Approximately 422,062 in Round 3.
+
+Q: How much rank is needed for Sikh Minority candidates (Home State)?
+A: Sikh minority cutoffs are generally much more relaxed, with students often getting CS/IT branches at 8-10 lakh+ ranks (Category Code: NOSMAI).
+
+Q: What is the cutoff for B.Tech Lateral Entry (CSE) in 2025?
+A: Approximately rank 290 for General Home State.
+
+Q: How many rounds of counselling are usually held?
+A: Three online rounds, followed by a sliding round and Spot rounds (Spot 1 and Spot 2).
+
+Q: What is the total annual fee for a first-year student?
+A: Approximately ₹1,49,100 (can vary slightly based on university dues updates).
+
+Q: How much is the tuition fee component?
+A: ₹1,11,000 per annum.
+
+Q: How much is paid during GGSIPU counselling as part payment?
+A: ₹40,000 to "freeze" or "float" the seat.
+
+Q: Is the Caution Money refundable?
+A: Yes, ₹2,000 is refundable after graduation.
+
+Q: Is the Book Bank fee refundable?
+A: Yes, ₹4,000 out of the ₹6,000 Book Bank fee is refundable upon returning the books.
+
+Q: What is the total fee for 4 years?
+A: Approximately ₹4.66 lakhs to ₹6 lakhs total (including all dues).
+
+Q: Are there any fines for first-year students?
+A: No, the college explicitly states there are no fines for first-years.
+
+Q: Can students pay the balance fee in installments?
+A: Generally, it is paid in one go at reporting, but students can request the accounts office for exceptions.
+
+Q: Name some scholarship schemes available.
+A: Saksham, Parakh, and GGSIPU Merit-cum-Means Financial Assistance.
+
+Q: What is the highest package reported in 2024-25?
+A: ₹52 LPA to ₹63 LPA (e.g., Harshita Rajput at LinkedIn/Google, Sehajpreet Kaur at Microsoft).
+
+Q: What is the average package at GTBIT?
+A: Between ₹6 LPA and ₹8 LPA for CSE/IT branches.
+
+Q: Who are the top recruiters?
+A: Microsoft, Amazon, American Express, LinkedIn, Google, FNZ, TCS, and ZS Associates.
+
+Q: Which student got placed at Amazon for ₹30.25 LPA recently?
+A: In 2021, five students were placed at Amazon.
+
+Q: What was the package offered by American Express in 2024?
+A: ₹19.15 LPA (offered to students like Bhumika Rana and Tanu Tomar).
+
+Q: Which company offered ₹15 LPA to multiple students in 2024?
+A: FNZ (Junior Analyst Developer roles).
+
+Q: Does TCS recruit from GTBIT?
+A: Yes, TCS is a regular recruiter, offering packages around ₹7 LPA to ₹9 LPA for System Engineer roles.
+
+Q: What is the "75% criteria" for placements?
+A: Some top-tier companies require a 70-80% aggregate throughout (10th, 12th, and B.Tech) with no active backlogs.
+
+Q: Can a placed student sit for another company?
+A: Yes, if the new company is a "Big Brand" or offers a package difference of at least ₹2 lakhs.
+
+Q: Who is the Head of the Training & Placement Cell?
+A: S. Parminderpal Singh Bedi.
+
+Q: Who secured AIR 7 in UPSC IES from GTBIT?
+A: Tekchand Deshwal.
+
+Q: Who secured University Rank 1 in IT with 9.846 CGPA?
+A: Mauli.
+
+Q: Who is the University Rank 1 holder in AI&DS?
+A: Raghav Bhardwaj.
+
+Q: What percentage of GTBIT students typically obtain a first division?
+A: Approximately 90%.
+
+Q: Has any student presented research in Sweden?
+A: Yes, Balvinder Singh at KTH University, Stockholm.
+
+Q: Which student got a funded research internship at University of Montreal?
+A: Balvinder Singh (CSE).
+
+Q: What was the focus of the voice-controlled vehicle patent?
+A: Driverless vehicle controlled by voice commands, published by the ECE faculty.
+
+Q: Where is GTBIT located?
+A: G-8 Area, Rajouri Garden, New Delhi - 110064.
+
+Q: What is the nearest Metro station?
+A: Subhash Nagar (Blue Line) and Mayapuri (Pink Line).
+
+Q: How far is Delhi Airport?
+A: 18 km.
+
+Q: How far is Delhi Cantt Railway Station?
+A: 2.4 km.
+
+Q: Which bus routes serve the college?
+A: Route 73 and 108 stop right outside.
+
+Q: Is the college campus big?
+A: No, the campus is relatively small (approx. 4-5 acres), but centrally located in a prime residential area.
+
+Q: Does GTBIT have a hostel?
+A: No on-campus hostel, but Rajouri Garden and nearby Subhash Nagar have many student PGs.
+
+Q: Is there an in-house psychologist?
+A: Yes, for student counseling and mental health support.
+
+Q: What is the student-to-mentor ratio?
+A: 20:1.
+
+Q: Is there a gym on campus?
+A: Yes, a newly renovated gym is available for students.
+
+Q: Is the campus Wi-Fi enabled?
+A: Yes, the campus has Wi-Fi facilities, though reviews mention it's best in labs.
+
+Q: Is there a canteen on campus?
+A: Yes, there is a regular canteen and a Mother Dairy booth.
+
+Q: What is "LawHub"?
+A: An AI-powered legal assistant project that won 2nd prize at Automation Day 2025.
+
+Q: Name some technical societies.
+A: IEEE GTBIT, GDSC (Google Developer Student Clubs), and GFS Society.
+
+Q: Which team won Robowars at IIT Roorkee?
+A: The GTBIT robotics team (Team members: Aayush Sharma, Jaskaran Singh).
+
+Q: Does GTBIT participate in "Anugoonj"?
+A: Yes, Anugoonj is the annual cultural fest of GGSIPU where GTBIT students participate.
+
+Q: What is the name of the annual tech fest?
+A: It is commonly known as "Gates".
+
+Q: What is the general review of GTBIT infrastructure?
+A: Reviews describe it as "average but sufficient," with air-conditioned classrooms and well-equipped labs.
+
+Q: Do all classrooms have AC?
+A: Most lecture rooms have 3-4 ACs, but some older rooms may lack them.
+
+Q: Is there a playground in GTBIT?
+A: No, the campus is compact and lacks a large dedicated playground.
+
+Q: How is the faculty at GTBIT?
+A: Highly rated (approx 4.3/5). Professors are approachable and many hold PhDs.
+
+Q: Is attendance strict?
+A: Officially 75% is required by IPU, but reviews suggest the environment is relatively "chill" compared to other colleges.
+
+Q: What is the "vibe" of the college?
+A: It is often called a "Sikh minority college" with a friendly, family-like atmosphere among students from diverse backgrounds.
+
+Q: What is the ISO certification of GTBIT?
+A: It is an ISO certified institute.
+
+Q: What grade was given to GTBIT by the Delhi Govt?
+A: Graded 'A'.
+
+Q: Can I change my branch after 1st year?
+A: Yes, based on university-wide sliding/upgradation rules (requires 8.0+ CGPA usually).
+
+Q: Does the college have NCC?
+A: Yes, it has a well-disciplined boys’ wing.
+
+Q: Does the college have NSS?
+A: Yes, it has an active NSS unit.
+
+Q: Is there any "Management Quota"?
+A: Yes, 10% seats are MQ. Candidates must check the GGSIPU portal for MQ notifications usually in July.
+
+Q: What is the "DSGMC"?
+A: Delhi Sikh Gurdwara Management Committee, the statutory body that manages GTBIT.
+
+Q: What documents are needed for admission?
+A: JEE Scorecard, Class 10/12 Marksheets, Minority Certificate (if applicable), Allotment Letter, and Medical Certificate.
+
+Q: Is there any age relaxation?
+A: Yes, 5% age relaxation for SC/ST/PWD and Defense categories.
+
+Q: What is the final motto?
+A: Leadership in holistic education to create a progressive world family.
+
+Q: Who got a package of ₹45 LPA in ECE (2023)?
+A: Bhaskar Gupta.
+
+Q: Which IT student got ₹45 LPA in 2023?
+A: Vishal.
+
+Q: Who is the placement record holder for ₹44.14 LPA in CSE?
+A: Japneet Singh.
+
+Q: Name an IT student with ₹30 LPA package.
+A: Saurabh Gupta.
+
+Q: What package did Mohd. Afzal Ansari get in IT?
+A: ₹28 LPA.
+
+Q: Which company offered ₹14.38 LPA to Mayank Malhotra?
+A: Driffle.
+
+Q: What is the placement email for verification?
+A: verifystudentgtbit@gmail.com.
+
+Q: Who is the owner of "Landa Aam productions" mentioned in alumni reviews?
+A: Raman Besil (Senior Alumnus).
+
+Q: Does Google visit GTBIT?
+A: Reviews suggest students have been placed at Google (e.g., Harshita Rajput for ₹63 LPA), though often through off-campus or special drives.
+
+Q: What is the minimum criteria for service-based companies like TCS/Infosys?
+A: Usually 60% aggregate in B.Tech and no active backlogs.
+
+
+Q: What is "NOKMAI" category code?
+A: Kashmiri Migrants (All India).
+
+Q: What is "OPPHHS" category?
+A: Open Category, Physically Handicapped, Home State.
+
+Q: What is "SCNOHS" category?
+A: Scheduled Caste, No Sub-category, Home State.
+
+Q: Is there any reservation for EWS in GTBIT?
+A: No, EWS reservation is not applicable in Minority institutions like GTBIT under the Constitution of India.
+
+Q: Can "Other State" students get into the Sikh Minority quota?
+A: Yes, there is an "Outside Delhi Sikh Minority" (OSSM) category.
+
+Q: What is the 85% rule in IPU?
+A: 85% of seats are reserved for students who completed their 12th from a school located in Delhi.
+
+Q: Does 12th schooling location define "Home State"?
+A: Yes, even if you live in NCR (Noida/Gurgaon), if your school was in Delhi, you are "Home State".
+
+Q: Is there a "Defence" quota in GTBIT?
+A: Yes (OPDFHS/OPDFOS codes).
+
+Q: How many seats are there for Lateral Entry?
+A: Usually 10% of the sanctioned intake (approx 12-18 seats per branch).
+
+Q: When do Management Quota admissions start?
+A: Usually after Round 2 or 3 of online counselling, announced on the IPU and college website.
+
+Q: Does GTBIT have smart boards?
+A: Yes, many classrooms are now equipped with smart boards and projectors.
+
+Q: What is the quality of the labs?
+A: Modern and well-equipped, specifically for CSE, ECE, and AI/ML.
+
+Q: Is there a parking facility?
+A: Yes, dedicated parking space is available inside or just outside the campus for students.
+
+Q: What is "Prisma Rangoli"?
+A: A creative student society that won 2nd prize at Anugoonj.
+
+Q: Is the canteen food good?
+A: Reviews are mixed (average rating), but there are many high-quality eateries in Rajouri Garden nearby.
+
+Q: Is the campus peaceful?
+A: Yes, located in a quiet residential corner of Rajouri Garden.
+
+Q: Are there clubs for dance and music?
+A: Yes, several cultural societies exist under the student council.
+
+Q: Does the college have an auditorium?
+A: It has a large seminar hall and an open-air area for events, though no massive separate auditorium.
+
+Q: Is there Wi-Fi in the library?
+A: Yes, the library area is Wi-Fi enabled for research.
+
+Q: Is the library open after college hours?
+A: Usually until 4:00 PM or 5:00 PM.
+
+Q: How can I pay the upgradation fee?
+A: Through the IPU candidate portal after a seat is upgraded in Spot rounds.
+
+Q: What is the fee for Spot round participation?
+A: Usually ₹2,000 to ₹2,500 (non-refundable).
+
+Q: What is "Physical Reporting"?
+A: Bringing original documents to GTBIT campus for verification after seat allotment.
+
+Q: Can I withdraw my admission after reporting?
+A: Yes, as per the GGSIPU refund schedule (usually a deduction of ₹1,000 if done early).
+
+Q: Where is the "Accounts Department" located?
+A: In the main administrative block on the ground floor.
+
+Q: How do I get my I-Card?
+A: Issued by the Registrar's office after physical reporting and document submission.
+
+Q: Is there a dress code?
+A: No uniform, but "professional attire" is encouraged during placement drives.
+
+Q: How do I apply for a character certificate?
+A: From the college administration after completing the degree.
+
+Q: What is the passing percentage in exams?
+A: 40% aggregate (Internal + External).
+
+Q: Are internal marks based on attendance?
+A: Yes, a small percentage of internal marks is often linked to regular attendance.
+
+Q: Who is Japjot Singh?
+A: A 3rd-year CSE student selected for the Industrial Collaboration committee at IEEE Delhi SSN.
+
+Q: Who is Falkeet Singh?
+A: A 2nd-year CSE student in the IEEE Editorial committee.
+
+Q: What did Mayank secure in the Chess Tournament at MSIT?
+A: 1st Position.
+
+Q: Who won Silver in Badminton at MAIT?
+A: Harshit Singh Arora.
+
+Q: Who is the "Ethics Champion" from IEEE?
+A: Sneha Soniwal.
+
+Q: What rank did Pulkit Aggarwal secure in GGSIPU ECE?
+A: 1st Rank in the 3rd Semester.
+
+Q: Who won Gold in Badminton Mixed Doubles at Don Bosco?
+A: Bhumika and Brahmpreet.
+
+Q: Who won 1st prize in Videography at SARFAROSHI'24?
+A: Ayush Gautam.
+
+Q: What is the highest CGPA mentioned?
+A: 9.846 by Mauli.
+
+Q: What is the motto of DSGMC?
+A: Sarbat Da Bhala (Welfare of All).
+
+Q: If my JEE rank is 5 lakh, can I get CSE?
+A: If you have a Sikh Minority certificate (Home State), yes. For General Home State, it's very difficult.
+
+Q: Is it better to choose GTBIT over ADGITM?
+A: Students often choose GTBIT for its prime location and better results/ranks, but ADGITM has a larger campus.
+
+Q: Are there any "Agents" for admission?
+A: No, stay away from them. The college explicitly warns against "touts".
+
+Q: How is the connectivity to Delhi Metro?
+A: Excellent; a 5-10 minute rickshaw ride to Subhash Nagar station.
+
+Q: Does the college have a psychology lab?
+A: It has a counseling room with a professional psychologist.
+
+Q: Can I get admission with 60% in 12th?
+A: Yes, the minimum eligibility is 55% aggregate in PCM.
+
+Q: Is the second shift placement different?
+A: No, placements are combined for both shifts.
+
+Q: What is the "Sliding Round"?
+A: A round where university ranks are reshuffled within the same college for better branches before Spot rounds.
+
+Q: Does GTBIT participate in "Smart India Hackathon"?
+A: Yes, many teams from GTBIT qualify for the finals every year.
+
+Q: What is the "GDSC GTBIT"?
+A: Google Developer Student Club that hosts workshops on Android, Cloud, and Web.
+
+Q: How many buildings are in GTBIT?
+A: Three spacious blocks.
+
+Q: What is the distance from New Delhi Railway Station?
+A: 13.5 km.
+
+Q: What is the distance from Nizamuddin Station?
+A: 23 km.
+
+Q: What is the distance from Anand Vihar?
+A: 34.5 km.
+
+Q: What is the "Subhash Nagar" metro line color?
+A: Blue Line.
+
+Q: What is the "Mayapuri" metro line color?
+A: Pink Line.
+
+Q: Does the college have an NCC Boys wing?
+A: Yes.
+
+Q: Is there an NCC Girls wing?
+A: The data mentions a "well-disciplined boys' wing," but female cadets often participate through combined units.
+
+Q: What is the ISO number of the certification?
+A: Usually ISO 9001 (standard for educational institutes).
+
+Q: Who manages the free kitchens serving lakhs?
+A: DSGMC.
+
+Q: Are teachers helpful for GATE?
+A: Yes, reviews state teachers are approachable and smart, providing notes for competitive exams.
+
+Q: What is the "pass mark" for internals?
+A: Usually 40% (e.g., 10 out of 25).
+
+Q: Are labs AC?
+A: Yes, labs are fully air-conditioned.
+
+Q: Is there a gym fee?
+A: Usually included in the overall development fee/dues.
+
+Q: Can I wear shorts to college?
+A: It is generally discouraged; "decent" attire is the norm.
+
+Q: Are there water coolers?
+A: Yes, with RO systems.
+
+Q: Is there a Mother Dairy inside?
+A: Yes, a dedicated booth.
+
+Q: Is the library crowd big?
+A: It is a popular spot for self-study, especially during exams.
+
+Q: Are there student events in the open area?
+A: Yes, small fests and society events happen in the open courtyard.
+
+Q: Is the environment smoke-free?
+A: Yes, strictly enforced.
+
+Q: What is "Trajectory-based operations"?
+A: A concept in aviation research worked on by student Balvinder Singh.
+
+Q: Who is Dr. Rominder Kaur Randhawa?
+A: The Director, holding B.E, M.E, and PhD.
+
+Q: What did the Director receive a 1 Lakh prize for?
+A: Dedicated services to the parent body (DSGMC).
+
+Q: What is the "Washington Accord"?
+A: An international agreement for accreditation of engineering degrees mentioned in the Director's profile.
+
+Q: Who is Dr. Gagandeep Kaur?
+A: A faculty member who guided Team SOUL for LawHub.
+
+Q: What is the "Driverless vehicle" patent's year?
+A: 2023.
+
+Q: Who is Neetu Settia?
+A: One of the faculty members who published the patent.
+
+Q: What is the "UHV Cell"?
+A: Universal Human Values cell.
+
+Q: Does the college support "Entrepreneurship"?
+A: Yes, through the EDC cell.
+
+Q: What is "Digital Futures"?
+A: The body that powered the international conference in Sweden where Balvinder Singh presented.
+
+
+Q: Is GTBIT good for CSE?
+A: Yes, it is considered one of the top choices
